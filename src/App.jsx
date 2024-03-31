@@ -11,7 +11,6 @@ import {
   Works,
   StarsCanvas,
 } from "./components";
-import Oldpc from "./components/Oldpc";
 const App = () => {
   return (
     <BrowserRouter>
@@ -30,7 +29,6 @@ const App = () => {
           <StarsCanvas />
         </div>
       </div>
-      <Oldpc />
     </BrowserRouter>
   );
 };
