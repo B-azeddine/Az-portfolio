@@ -26,7 +26,7 @@ const ProjectCard = ({
           scale: 1,
           speed: 450,
         }}
-        className="bg-[#0d353f] p-5 rounded-[8px] sm:w-[360px] w-full"
+        className="bg-[#0d353f] p-3 rounded-[8px] sm:w-[360px] w-full"
       >
         <div
           className="relative w-full h-[230px] cursor-pointer"
